@@ -1,0 +1,39 @@
+.header {
+    margin:0;
+    background-color: #7cd4ba;
+    font-family: Papyrus;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 5px 10px #b4b4b4;
+  }
+  #p {
+    display: block;
+    font-family: Papyrus;
+    margin-top:0;
+  }
+  .top {
+    margin-top: 50px;
+    }
+  
+  .list {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 1px;
+    margin: auto;
+    width: 32.8%;
+    box-shadow: 5px 10px #888888;
+    margin-top: 10px;
+    }
+  p {
+    font-Size: 20px;
+    display: inline-block;
+    font-family: Courier;
+  }
+  .button {
+    background-color: #ffffff;
+    color: rgb(255, 118, 118);
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    padding: 18px;
+  }
